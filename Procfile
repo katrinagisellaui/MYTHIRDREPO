@@ -1,0 +1,1 @@
+web: gunicorn giselthird.wsgi --log-file -
